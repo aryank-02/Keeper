@@ -1,4 +1,3 @@
-import { continueStatement } from "@babel/types";
 import React, { useState } from "react";
 
 function CreateArea(props) {
